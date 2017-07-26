@@ -1,3 +1,3 @@
 # Machine-Learning-Algorithms
 
-A collection of essential machine learning algorithms, coded and annotated in Python.
+A collection of essential machine learning algorithms. Coded and annotated in Python.
