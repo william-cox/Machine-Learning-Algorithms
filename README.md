@@ -10,3 +10,4 @@ A collection of essential machine learning algorithms. Coded and annotated in Py
 6. Random Forest
 7. Naive Bayes
 8. Linear Discriminant Analysis
+9. Principle Component Analysis
