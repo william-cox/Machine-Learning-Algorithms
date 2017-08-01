@@ -2,6 +2,8 @@
 
 A collection of essential machine learning algorithms. Coded and annotated in Python.
 
+Not for production. Intended for the purposes of reviewing algorithm procedures.
+
 1. Linear Perceptron
 2. Adaline Perceptron (Adaptive Linear Perceptron)
 3. Logistic Regression
