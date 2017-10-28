@@ -4,12 +4,12 @@ A collection of essential machine learning algorithms. Coded and annotated in Py
 
 Not for production. Intended for the purposes of reviewing algorithm procedures.
 
-1. Linear Perceptron
-2. Adaline Perceptron (Adaptive Linear Perceptron)
-3. Logistic Regression
-4. K Nearest Neighbors
-5. Decision Tree
-6. Random Forest
-7. Naive Bayes
-8. Linear Discriminant Analysis
-9. Principle Component Analysis
+1. Adaline Perceptron (Adaptive Linear Perceptron)
+2. Logistic Regression
+3. K Nearest Neighbors
+4. Decision Tree
+5. Random Forest
+6. Naive Bayes
+7. Linear Discriminant Analysis
+8. Principle Component Analysis
+9. Neural Network
