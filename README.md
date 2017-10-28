@@ -4,6 +4,7 @@ A collection of essential machine learning algorithms. Coded and annotated in Py
 
 Not for production. Intended for the purposes of reviewing algorithm procedures.
 
+0. Linear Regression
 1. Adaline Perceptron (Adaptive Linear Perceptron)
 2. Logistic Regression
 3. K Nearest Neighbors
